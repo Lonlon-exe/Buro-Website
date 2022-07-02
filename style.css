@@ -1,0 +1,61 @@
+html::-webkit-scrollbar {
+    display: none;
+}
+
+h1{
+    width: 1667px;
+    padding: 10px;
+    text-align: center;
+   
+}
+h2 {
+    padding: 10px;
+    position:absolute;
+    left: 200px;
+}
+.normal {
+    font-size: 20px;
+    position: absolute;
+    left: 250px;
+    border: solid 3px rgb(7, 53, 255) ;
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+
+.body{
+    background: linear-gradient(to right, rgb(5, 92, 146), rgb(1, 242, 255));
+    
+    
+    
+}
+.gradient1 {
+    width: 1910px !important;
+    height: 940px !important;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    z-index: 50;
+    background: linear-gradient(to right bottom, rgb(134, 168, 101), rgb(36, 38, 221));
+}
+
+.button1 {
+    height: 30px ; width: 100px; 
+    background-color:rgb(135, 155, 45); 
+    border: solid 3px rgb(52, 63, 5); 
+    border-radius: 20px;
+}
+
+.post {
+    border: solid 3px rgb(52, 63, 5); 
+    border-radius: 0px 0px 0px 20px;
+    
+}
+
+.Credits{
+    color: rgb(130, 136, 136);
+}
+    
+    
